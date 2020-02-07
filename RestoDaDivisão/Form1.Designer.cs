@@ -55,6 +55,7 @@
             // 
             this.txtResto.Location = new System.Drawing.Point(223, 34);
             this.txtResto.Name = "txtResto";
+            this.txtResto.ReadOnly = true;
             this.txtResto.Size = new System.Drawing.Size(80, 20);
             this.txtResto.TabIndex = 2;
             // 

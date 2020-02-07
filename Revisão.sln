@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrocaDeValores", "TrocaDeVa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoDaDivisão", "RestoDaDivisão\RestoDaDivisão.csproj", "{2EC77C3A-DF87-4472-A33C-B2FFA33D5E40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peso Ideal", "Peso Ideal\Peso Ideal.csproj", "{6D548C68-0E77-4139-ADA5-DAC4ED3DFAFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2EC77C3A-DF87-4472-A33C-B2FFA33D5E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EC77C3A-DF87-4472-A33C-B2FFA33D5E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EC77C3A-DF87-4472-A33C-B2FFA33D5E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D548C68-0E77-4139-ADA5-DAC4ED3DFAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D548C68-0E77-4139-ADA5-DAC4ED3DFAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D548C68-0E77-4139-ADA5-DAC4ED3DFAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D548C68-0E77-4139-ADA5-DAC4ED3DFAFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
