@@ -223,9 +223,9 @@
             this.rbnXEggFrango.AutoSize = true;
             this.rbnXEggFrango.Location = new System.Drawing.Point(12, 154);
             this.rbnXEggFrango.Name = "rbnXEggFrango";
-            this.rbnXEggFrango.Size = new System.Drawing.Size(99, 17);
+            this.rbnXEggFrango.Size = new System.Drawing.Size(96, 17);
             this.rbnXEggFrango.TabIndex = 3;
-            this.rbnXEggFrango.Text = " X - Egg Frango";
+            this.rbnXEggFrango.Text = "X - Egg Frango";
             this.rbnXEggFrango.UseVisualStyleBackColor = true;
             this.rbnXEggFrango.CheckedChanged += new System.EventHandler(this.rbnXTudo_CheckedChanged);
             // 

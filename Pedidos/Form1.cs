@@ -111,7 +111,7 @@ namespace Pedidos
             rbn = (RadioButton)sender;
             if (rbn.Checked)
             {
-                rbnRefri = rbn;
+                rbnSanduiche = rbn;
                 SetValorSanduiche();
                 Total();
             }
